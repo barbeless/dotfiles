@@ -1,0 +1,6 @@
+theme = /usr/share/ghostty/themes/Everforest Dark - Hard
+
+font-family = "Cousine Nerd Font"
+font-size = 10
+window-decoration = true
+mouse-hide-while-typing = true
