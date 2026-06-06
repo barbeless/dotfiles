@@ -348,3 +348,4 @@ hl.bind(mainMod .. " + bracketleft", hl.dsp.exec_cmd("~/.config/scripts/play.bas
 hl.bind(mainMod .. " + SHIFT + up", hl.dsp.workspace.move({ monitor = "+1" }))
 hl.bind(mainMod .. " + SHIFT + down", hl.dsp.workspace.move({ monitor = "-1" }))
 hl.bind(mainMod .. " + SHIFT + s", hl.dsp.exec_cmd("hyprshot -m region --clipboard-only"))
+hl.bind(mainMod .. " + l", hl.dsp.exec_cmd("hyprlock"))
